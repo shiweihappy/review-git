@@ -6,3 +6,4 @@ Add Feature-A
 add fix-B
 
 feature-C
+feature-E
